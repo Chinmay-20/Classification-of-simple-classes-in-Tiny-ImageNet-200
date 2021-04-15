@@ -1,0 +1,44 @@
+btrain
+correct : 1,4,5,7,8,9,10,11,12,13,14,15,16(0.5),17,18
+wrong : 2,3,6(espresso,2nd is btrain 2.7101975e-01), 19(the train is passing throghu steelbridge so it ispredited and then train,1.92391e-01)
+
+dugong:
+correct : 2,3,4(0.555), 5,6,7,8(0.66),9,10,12,13,14,15(0.622),16(0.4952161),
+wrong : 1(btrain,2nd highest value of dugong,3.1877950e-01),11(watertower,2nd prediction 1.85645193e-01),17(steelbridge,2nd prediction 1.2618054e-01)
+
+elephant: no 11 image
+correct : 1,2,3,4,10,12,13,14,15,16,17,18
+wrong : 5(lion, 2nd vaalue is  of elephant 3.9165188e-01), 6(lion,elephant value is 2nd 0.3229961), 7(penguin, elephant value is 7 2.625351e-02), 8(lion,eleephant vale is 2nd 3.1177928e-01),9(steelbridge, elephant value is 2nd 1.7310219e-01)
+
+espresso:
+correct : 1(0.600), 3,4,5,6,7,8,9,10,11,12,13,14,16,17,18(0.422)
+wrrong : 2(potterwheel, espresso value is 2nd 8.4609717e-02), 15(schoolbus,espresso value is 3rd 3.2127094e-02)
+
+lemon:
+correct : 1,2,3,4,5,6,7,8(0.5265),9,10,11,12,13,14,15
+wrong : 
+
+lion:
+correct : 1,2,3(0.41),4,5,6,7 
+wrong : 
+
+penguin:
+correct : 1(0.47),2,3,4,5,6,7(0.720),8,9 
+wrong : 
+
+potterwheel:
+correct : 1,2(0.6528973), 3(0.649901), 5
+wrong : 4(lion, potterwheel value is 2nd 0.28294444)
+
+schoolbus:
+correct : 1,2,3,4,5,6,7,8,9,10,11(0.78),12,13,14,15,16,17(0.82),18 
+wrong : 
+
+steelbridge:
+corret : 1,3(0.72),4,5(0.9665402), 7(0.454), 8(0.586), 9,10(0.4932), 11(0.5340), 13(0.5102), 15,16,17
+wrong : 2(watertower, steelbridge value is 2nd 1.9456811e-01), 6(schoolbus, steelbriddge value is 2nd 1.6932706e-01), 12(watertower, steelbridge value is 2nd 6.0922321e-02), 14(watertower, steel bridge value is 2nd 3.6117710e-02), 18(schoolbus,steelbridge value is 3rd 1.2709766e-02)
+
+
+watertower:
+correct : 1,2(0.51), 3(0.49567),4,6(0.64),7(0.70),8,9,10,11,12,13,14,15,16``
+wrong : 5(schoolbus, watertower value is 2nd 1.6816961e-01)
