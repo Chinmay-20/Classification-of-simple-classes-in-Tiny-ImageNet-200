@@ -3,8 +3,8 @@
 Descritpion : The main idea of project is to understand image classification using deep learning. The project is built in python programming language. The libraries used are tensorflow and keras. A deep learning model is trained on 11 classes (bullet_train, dugong, elephant, espresso, lemon, lion, penguin, schoolbus, steelarchbridge, water tower) of Tiny-ImageNet-200 2015 dataset. 
 
 Directory information:
-simple : contains training dataset
-images : contains images used for testing the model.(this images are from validation set of Tiny-ImageNet-200)
+simple.zip : contains training dataset
+images.zip : contains images used for testing the model.(this images are from validation set of Tiny-ImageNet-200)
 output2 : contians output of model(graph,weights,model architecture, output[redirected from terminal])
 
 modules information:
