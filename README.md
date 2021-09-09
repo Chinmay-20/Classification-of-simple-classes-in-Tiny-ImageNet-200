@@ -5,8 +5,8 @@ Descritpion : The main idea of project is to understand image classification usi
 Dataset information:
 1)there are 11 classes
 2)each class contains 500 images
-3)dataset is split into training-80 and testing-20 using traain_test_split
-4)the project is tested using images present in validation dataset of same classes
+3)dataset is split into training-80% and testing-20% using train_test_split
+4)the project is tested using images present in validation set of same dataset
 
 Directory information:
 simple.zip : contains training dataset
